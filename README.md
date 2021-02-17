@@ -1,2 +1,2 @@
 # ScraperSanatizer
-Scaper to sanatize inputs to a scapter
+Sanatizer to sanatize inputs to a scraper
