@@ -1,11 +1,11 @@
 /**
- * UrlScraperSanatizer.hh
+ * SQLite3ScraperSanatizer.hh
  */
 
 #include <string>
 
 namespace scraper_sanatizer {
 
-int UrlScraperSanatize(std::string &target_string);
+int SQLite3ScraperSanatize(std::string &target_string);
 
 } // namespace scraper_sanatizer

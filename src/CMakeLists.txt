@@ -1,4 +1,4 @@
-add_library(ScraperSanatizer UrlScraperSanatizer.cc)
+add_library(ScraperSanatizer SQLite3ScraperSanatizer.cc)
 target_include_directories(ScraperSanatizer PUBLIC ${PROJECT_SOURCE_DIR}/include)
 
 install(
